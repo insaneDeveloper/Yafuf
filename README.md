@@ -1,4 +1,4 @@
-jafuf
+Yafuf
 =====
 
-Flat Ui Framework
+Yet Another Flat Ui Framework
